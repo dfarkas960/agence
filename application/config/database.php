@@ -76,8 +76,8 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'cp130650_defar',
-	'password' => 'SiN=KwhN(ES%',
+	'username' => 'nope',
+	'password' => 'nope',
 	'database' => 'cp130650_agence',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
